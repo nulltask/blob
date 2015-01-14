@@ -1,3 +1,10 @@
+
+/**
+ * Module dependencies.
+ */
+
+var global = require('global');
+
 /**
  * Create a blob builder even when vendor prefixes exist
  */
